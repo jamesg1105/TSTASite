@@ -1,0 +1,87 @@
+body {
+	background: none; color: rgb(0, 0, 0); font-family: Verdana, sans-serif; font-size: 11pt;
+}
+input {
+	background: none; color: rgb(0, 0, 0); font-family: Verdana, sans-serif; font-size: 11pt;
+}
+textarea {
+	background: none; color: rgb(0, 0, 0); font-family: Verdana, sans-serif; font-size: 11pt;
+}
+select {
+	background: none; color: rgb(0, 0, 0); font-family: Verdana, sans-serif; font-size: 11pt;
+}
+ul.main-menu {
+	display: none;
+}
+ul.secondary-menu {
+	display: none;
+}
+#header-region {
+	display: none;
+}
+.sidebar {
+	display: none;
+}
+body.two-sidebars {
+	width: 640px;
+}
+body.sidebar-first {
+	width: 640px;
+}
+body.sidebar-second {
+	width: 640px;
+}
+body {
+	width: 640px;
+}
+body.sidebar-first #center {
+	margin: 0px;
+}
+body.sidebar-second #center {
+	margin: 0px;
+}
+body.two-sidebars #center {
+	margin: 0px;
+}
+body.sidebar-first #squeeze {
+	margin: 0px;
+}
+body.sidebar-second #squeeze {
+	margin: 0px;
+}
+body.two-sidebars #squeeze {
+	margin: 0px;
+}
+#wrapper {
+	background: none; margin: 0px; padding: 0px; left: 0px; width: auto; clear: both; float: none; position: static;
+}
+#wrapper #container .breadcrumb {
+	background: none; margin: 0px; padding: 0px; left: 0px; width: auto; clear: both; float: none; position: static;
+}
+#wrapper #container #center {
+	background: none; margin: 0px; padding: 0px; left: 0px; width: auto; clear: both; float: none; position: static;
+}
+#wrapper #container #center .right-corner {
+	background: none; margin: 0px; padding: 0px; left: 0px; width: auto; clear: both; float: none; position: static;
+}
+#wrapper #container #center .right-corner .left-corner {
+	background: none; margin: 0px; padding: 0px; left: 0px; width: auto; clear: both; float: none; position: static;
+}
+#wrapper #container #footer {
+	background: none; margin: 0px; padding: 0px; left: 0px; width: auto; clear: both; float: none; position: static;
+}
+#wrapper #container #center #squeeze {
+	background: none; margin: 0px; padding: 0px; left: 0px; width: auto; clear: both; float: none; position: static;
+}
+#wrapper #container #header {
+	height: 130px;
+}
+#wrapper #container #header h1 {
+	color: rgb(0, 0, 0); text-shadow: none;
+}
+#wrapper #container #header h1 a:link {
+	color: rgb(0, 0, 0); text-shadow: none;
+}
+#wrapper #container #header h1 a:visited {
+	color: rgb(0, 0, 0); text-shadow: none;
+}
